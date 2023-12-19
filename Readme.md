@@ -17,12 +17,12 @@ Determined to find a solution, I embarked on creating a custom Markdown converte
 ![plot](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
 
 </div>
-<div style="width:65px;">
+<div style="width:25px;">
 
 ![plot](https://img.icons8.com/?size=512&id=20909&format=png)
 
 </div>
-<div style="width:50px;">
+<div style="width:25px;">
 
 ![plot](https://cdn-icons-png.flaticon.com/512/4726/4726010.png)
 
@@ -210,15 +210,15 @@ In this test,the Markdown to HTML conversion using `Test1.md`. This file contain
 
 ### Pdf Preview
 
-![plot](Test_Output/Output_Images/TestCase_1/TestCase_1_Pdf.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_1/TestCase_1_Pdf.png)
 
 ### HTML File Preview 
 
-![plot](Test_Output/Output_Images/TestCase_1/Test_Case_1_HTML.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_1/Test_Case_1_HTML.png)
 
 ### Details of the File 
 
-![plot](Test_Output/Output_Images/TestCase_1/Test_1_Terminal.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_1/Test_1_Terminal.png)
 
 ---
 
@@ -243,27 +243,27 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 ### Pdf Preview
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_1.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_1.png)
 
 <br>
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_2.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_2.png)
 
 ### HTML File Preview 
 
 <br>
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_1.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_1.png)
 
 <br>
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_2.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_2.png)
 
 ### Details of the File 
 
 <br>
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_2_Terminal.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_2/Test_2_Terminal.png)
 
 ---
 
@@ -294,14 +294,14 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 <br>
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_1.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_1.png)
 
 <br>
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_2.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_2.png)
 
 ### Details of the File 
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_3/Test_Case_3_Terminal.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/4043901ca4dfbdad1dc1fdcba28a6a1b98c53901/Test_Output/Output_Images/TestCase_3/Test_Case_3_Terminal.png)
 
 ---
