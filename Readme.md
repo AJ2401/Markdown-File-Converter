@@ -17,12 +17,12 @@ Determined to find a solution, I embarked on creating a custom Markdown converte
 ![plot](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
 
 </div>
-<div style="width:65px;">
+<div style="width:25px;">
 
 ![plot](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
 
 </div>
-<div style="width:50px;">
+<div style="width:25px;">
 
 ![plot](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg)
 
