@@ -19,12 +19,12 @@ Determined to find a solution, I embarked on creating a custom Markdown converte
 </div>
 <div style="width:25px;">
 
-![plot](https://img.icons8.com/?size=240&id=20909&format=png)
+![plot](https://img.icons8.com/?size=65&id=20909&format=png)
 
 </div>
 <div style="width:25px;">
 
-![plot](https://cdn-icons-png.flaticon.com/512/4726/4726010.png)
+![plot](https://img.freepik.com/premium-vector/modern-flat-design-pdf-file-icon-web_599062-7115.jpg?w=65)
 
 </div>
 </div>
@@ -210,15 +210,15 @@ In this test,the Markdown to HTML conversion using `Test1.md`. This file contain
 
 ### Pdf Preview
 
-![plot](https://drive.google.com/file/d/1T82dSGzvIOGiZhiCsD84Lj5stJoN2LXO/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1T82dSGzvIOGiZhiCsD84Lj5stJoN2LXO/view?usp=sharing)
 
 ### HTML File Preview 
 
-![plot](https://drive.google.com/file/d/1jeCtOt3_aEErraOsNUmG_XoDO_Wxk2GA/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1jeCtOt3_aEErraOsNUmG_XoDO_Wxk2GA/view?usp=sharing)
 
 ### Details of the File 
 
-![plot](https://drive.google.com/file/d/1tidyUOqiUqd4CsdgWMNB4FRzVN1cLFpg/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1tidyUOqiUqd4CsdgWMNB4FRzVN1cLFpg/view?usp=sharing)
 
 ---
 
@@ -243,27 +243,27 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 ### Pdf Preview
 
-![plot](https://drive.google.com/file/d/1jgKLAr3URmAgYCdMVsjdNgXkD2WLjMct/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1jgKLAr3URmAgYCdMVsjdNgXkD2WLjMct/view?usp=sharing)
 
 <br>
 
-![plot](https://drive.google.com/file/d/1cr1xuyBUYvHYtsXdV9hZJgdx-L4l50kF/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1cr1xuyBUYvHYtsXdV9hZJgdx-L4l50kF/view?usp=sharing)
 
 ### HTML File Preview 
 
 <br>
 
-![plot](https://drive.google.com/file/d/1JX1Kt1S7LuohMJtY3B1ZC-FiXlFlZh4B/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1JX1Kt1S7LuohMJtY3B1ZC-FiXlFlZh4B/view?usp=sharing)
 
 <br>
 
-![plot](https://drive.google.com/file/d/1JX1Kt1S7LuohMJtY3B1ZC-FiXlFlZh4B/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1kcAT62udivcxD_agVLb0tf7NyiCBSy-r/view?usp=sharing)
 
 ### Details of the File 
 
 <br>
 
-![plot](https://drive.google.com/file/d/1qaGUcIULcB0UGmyJe2RVGRhUWrGX4fve/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1qaGUcIULcB0UGmyJe2RVGRhUWrGX4fve/view?usp=sharing)
 
 ---
 
@@ -294,14 +294,14 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 <br>
 
-![plot](https://drive.google.com/file/d/1LCtXUQIpbMlu6RrDui-PTHcz9KIJoYcW/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1LCtXUQIpbMlu6RrDui-PTHcz9KIJoYcW/view?usp=sharing)
 
 <br>
 
-![plot](https://drive.google.com/file/d/1E3lkE2Bi2eY6wNfPXfAge-_nLxPiN9zi/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1E3lkE2Bi2eY6wNfPXfAge-_nLxPiN9zi/view?usp=sharing)
 
 ### Details of the File 
 
-![plot](https://drive.google.com/file/d/1k0yuE2VOL6SPPrzWeu6Cj_E7dShgI_-i/view?usp=drive_link)
+![plot](https://drive.google.com/file/d/1k0yuE2VOL6SPPrzWeu6Cj_E7dShgI_-i/view?usp=sharing)
 
 ---
