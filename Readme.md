@@ -210,15 +210,15 @@ In this test,the Markdown to HTML conversion using `Test1.md`. This file contain
 
 ### Pdf Preview
 
-![plot](Test_Output/Output_Images/TestCase_1/TestCase_1_Pdf.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_1/TestCase_1_Pdf.png)
 
 ### HTML File Preview 
 
-![plot](Test_Output/Output_Images/TestCase_1/Test_Case_1_HTML.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_1/Test_Case_1_HTML.png)
 
 ### Details of the File 
 
-![plot](Test_Output/Output_Images/TestCase_1/Test_1_Terminal.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_1/Test_1_Terminal.png)
 
 ---
 
@@ -243,27 +243,27 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 ### Pdf Preview
 
-![plot](Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_1.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_1.png)
 
 <br>
 
-![plot](Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_2.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_Pdf_2.png)
 
 ### HTML File Preview 
 
 <br>
 
-![plot](Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_1.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_1.png)
 
 <br>
 
-![plot](Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_2.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_Case_2_HTML_2.png)
 
 ### Details of the File 
 
 <br>
 
-![plot](Test_Output/Output_Images/TestCase_2/Test_2_Terminal.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_2/Test_2_Terminal.png)
 
 ---
 
@@ -294,14 +294,14 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 <br>
 
-![plot](Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_1.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_1.png)
 
 <br>
 
-![plot](Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_2.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_3/Test_Case_3_pdf_2.png)
 
 ### Details of the File 
 
-![plot](Test_Output/Output_Images/TestCase_3/Test_Case_3_Terminal.png)
+![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_3/Test_Case_3_Terminal.png)
 
 ---
