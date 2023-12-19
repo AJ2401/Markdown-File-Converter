@@ -210,15 +210,15 @@ In this test,the Markdown to HTML conversion using `Test1.md`. This file contain
 
 ### Pdf Preview
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_1/TestCase_1_Pdf.png)
+![plot](Test_Output/Output_Images/TestCase_1/TestCase_1_Pdf.png)
 
 ### HTML File Preview 
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_1/Test_Case_1_HTML.png)
+![plot](Test_Output/Output_Images/TestCase_1/Test_Case_1_HTML.png)
 
 ### Details of the File 
 
-![plot](https://github.com/AJ2401/Markdown-File-Converter/blob/main/Test_Output/Output_Images/TestCase_1/Test_1_Terminal.png)
+![plot](Test_Output/Output_Images/TestCase_1/Test_1_Terminal.png)
 
 ---
 
