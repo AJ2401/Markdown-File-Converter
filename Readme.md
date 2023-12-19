@@ -19,7 +19,7 @@ Determined to find a solution, I embarked on creating a custom Markdown converte
 </div>
 <div style="width:25px;">
 
-![plot](https://img.icons8.com/?size=512&id=20909&format=png)
+![plot](https://img.icons8.com/?size=240&id=20909&format=png)
 
 </div>
 <div style="width:25px;">
