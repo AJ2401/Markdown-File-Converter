@@ -210,15 +210,15 @@ In this test,the Markdown to HTML conversion using `Test1.md`. This file contain
 
 ### Pdf Preview
 
-![plot](https://drive.google.com/file/d/1T82dSGzvIOGiZhiCsD84Lj5stJoN2LXO/view?usp=sharing)
+![PDF 1](https://drive.google.com/uc?export=view&id=1T82dSGzvIOGiZhiCsD84Lj5stJoN2LXO)
 
 ### HTML File Preview 
 
-![plot](https://drive.google.com/file/d/1jeCtOt3_aEErraOsNUmG_XoDO_Wxk2GA/view?usp=sharing)
+![HTML](https://drive.google.com/uc?export=view&id=1jeCtOt3_aEErraOsNUmG_XoDO_Wxk2GA)
 
 ### Details of the File 
 
-![plot](https://drive.google.com/file/d/1tidyUOqiUqd4CsdgWMNB4FRzVN1cLFpg/view?usp=sharing)
+![Terminal](https://drive.google.com/uc?export=view&id=1tidyUOqiUqd4CsdgWMNB4FRzVN1cLFpg)
 
 ---
 
@@ -243,27 +243,31 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 ### Pdf Preview
 
-![plot](https://drive.google.com/file/d/1jgKLAr3URmAgYCdMVsjdNgXkD2WLjMct/view?usp=sharing)
+![PDF 1](https://drive.google.com/uc?export=view&id=1jgKLAr3URmAgYCdMVsjdNgXkD2WLjMct)
 
 <br>
 
-![plot](https://drive.google.com/file/d/1cr1xuyBUYvHYtsXdV9hZJgdx-L4l50kF/view?usp=sharing)
+![PDF 2](https://drive.google.com/uc?export=view&id=1cr1xuyBUYvHYtsXdV9hZJgdx-L4l50kF)
+
 
 ### HTML File Preview 
 
 <br>
 
-![plot](https://drive.google.com/file/d/1JX1Kt1S7LuohMJtY3B1ZC-FiXlFlZh4B/view?usp=sharing)
+![HTML 1](https://drive.google.com/uc?export=view&id=1JX1Kt1S7LuohMJtY3B1ZC-FiXlFlZh4B)
 
 <br>
 
-![plot](https://drive.google.com/file/d/1kcAT62udivcxD_agVLb0tf7NyiCBSy-r/view?usp=sharing)
+![HTML 2](https://drive.google.com/uc?export=view&id=1kcAT62udivcxD_agVLb0tf7NyiCBSy-r)
+
 
 ### Details of the File 
 
+![Terminal](https://drive.google.com/uc?export=view&id=1qaGUcIULcB0UGmyJe2RVGRhUWrGX4fve)
+
+
 <br>
 
-![plot](https://drive.google.com/file/d/1qaGUcIULcB0UGmyJe2RVGRhUWrGX4fve/view?usp=sharing)
 
 ---
 
@@ -294,14 +298,16 @@ In this test case, it will  convert a complex Markdown file named `Test2.md` int
 
 <br>
 
-![plot](https://drive.google.com/file/d/1LCtXUQIpbMlu6RrDui-PTHcz9KIJoYcW/view?usp=sharing)
+![PDF 1](https://drive.google.com/uc?export=view&id=1LCtXUQIpbMlu6RrDui-PTHcz9KIJoYcW)
+
 
 <br>
 
-![plot](https://drive.google.com/file/d/1E3lkE2Bi2eY6wNfPXfAge-_nLxPiN9zi/view?usp=sharing)
+![PDF 2](https://drive.google.com/uc?export=view&id=1E3lkE2Bi2eY6wNfPXfAge-_nLxPiN9zi)
+
 
 ### Details of the File 
 
-![plot](https://drive.google.com/file/d/1k0yuE2VOL6SPPrzWeu6Cj_E7dShgI_-i/view?usp=sharing)
+![Terminal](https://drive.google.com/uc?export=view&id=1k0yuE2VOL6SPPrzWeu6Cj_E7dShgI_-i)
 
 ---
